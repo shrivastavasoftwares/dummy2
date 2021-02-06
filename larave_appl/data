@@ -1,0 +1,28 @@
+{
+"State_id":"1",
+"State_name":"Rajasthan"
+}
+{
+"City_id":"1",
+"City_name":"Jaipur",
+"City_State":"1",
+}
+
+
+ {
+        "Bank_name": "SBI",
+        "Branch_name": "Brahampuri, Jaipur",
+        "Branch_code": "12345678",
+        "Region_head": "Rahul",
+        "Emp_id": "123456780",
+        "Emp_name": "priyansh",
+        "Phone_no": "1234567890",
+        "email": "jhalanipriyansh25@gmail.com",
+        "designation": "ceo",
+        "grade": "A",
+        "CTC": "1234567890",
+        "remarks": "best",
+        "State": 1,
+        "City_name": 1,
+        "Location":"brahampuri"
+    }
